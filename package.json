@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tryghost/admin-api": "^1.13.11",
+    "dotenv": "^16.4.1"
+  }
+}
